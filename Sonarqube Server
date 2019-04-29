@@ -1,0 +1,10 @@
+Sonarqube Server:
+  It is used for Displaying the results of a code in the form of html format 
+  Port number:9000
+  Pre-requisite Software:Java
+  Major Parts:
+    Bugs
+    Vulnerabilites
+    Code smells
+
+
