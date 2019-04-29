@@ -1,0 +1,25 @@
+Maven:
+  It is a build and Project Management Tool
+  Pre-requisite Software:Java
+  Default file name is:pom.xml
+  It has a definite folder Structure when compared to Ant
+  It has 3 Life Cycles:
+     1.clean
+        ->goal:clean
+     2.site 
+        ->goal:site
+     3.default
+        ->goals:
+	    *validate
+	    *compile
+	    *test
+	    *package
+	    *install
+	    *deploy
+
+   It has 3 Repositories:
+      1.Maven Local Repository
+      2.Maven Central Repository
+      3.Remote Repository
+
+
