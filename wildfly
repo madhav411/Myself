@@ -1,0 +1,13 @@
+WildFly:
+  It is an Application Server
+  Port Number:8080
+  It is used for Deploying only ".war" and ".ear" packages
+  Important Folders:
+        bin:
+	  -->Used for Starting and Stopping the Wildfly Server
+        standalone:
+	  -->Configuration:
+	      ->standalone.xml
+	           Used for changing the port number of Wildfly server
+          -->Deployments:
+	        Used for Deploying the applications 
