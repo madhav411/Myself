@@ -1,0 +1,12 @@
+Tomcat:
+  It is a Web Server
+  Port number:8080
+  Important Folders:
+     -->bin
+     -->conf
+          ->settings.xml
+	       Used for Changing the port number of the Tomcat Server
+	  ->tomcat-users.xml
+	       Used for creating the users which will help while logging
+     -->webapps
+          ->Used for Deploying the applications
